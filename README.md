@@ -180,11 +180,6 @@ project-folder/
 ├── server.py          # The application
 ├── index.html         # Your homepage (served at /)
 ├── about.html         # Other pages
-├── styles.css         # CSS files
-├── script.js          # JavaScript files
-└── images/            # Image folder
-    ├── logo.png
-    └── banner.jpg
 ```
 
 **To Serve Your Website:**
